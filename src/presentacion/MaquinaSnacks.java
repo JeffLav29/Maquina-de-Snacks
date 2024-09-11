@@ -13,6 +13,7 @@ public class MaquinaSnacks {
     }
 
     public static void maquinaSnacks() {
+        //Proyecto Maquina de Snacks
         Scanner sc = new Scanner(System.in);
         boolean salir = false;
         //Creamos la lista de productos de tipo snacks
